@@ -1,4 +1,4 @@
-[#  Road Network Curve Smoothing (QGIS Plugin)
+<img src="curve.png" width="32" height="32" /> Road Network Curve Smoothing (QGIS Plugin)
 
 ## Overview
 
